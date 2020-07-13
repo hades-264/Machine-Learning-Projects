@@ -1,0 +1,1 @@
+#Face Recognition Project using OpenCv and haarcascade_frontalface_default Algorithm
